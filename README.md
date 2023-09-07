@@ -1,2 +1,3 @@
-# fun-katas2
-I messed up git, so had to upload this as a new repo
+# Northcoders Fundamentals Katas
+
+Please see instructions for this repo [here](https://l2c.northcoders.com/courses/fun/solo-katas).
